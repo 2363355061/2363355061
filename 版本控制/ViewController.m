@@ -16,7 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    NSLog(@"kdjgadadukhduv");
+    NSLog(@"已经修改了");
 }
 
 - (void)didReceiveMemoryWarning {
